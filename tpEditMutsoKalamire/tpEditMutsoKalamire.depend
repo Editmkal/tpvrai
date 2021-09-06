@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1630872709 source:c:\users\editto mirokal\desktop\editto mkal\tpeditmutsokalamire\main.cpp
+	<iostream>
+	<iostream>
+	"typecom.cpp"
+
+1630872348 source:c:\users\editto mirokal\desktop\editto mkal\tpeditmutsokalamire\src\typecom.cpp
+	<iostream>
+
+1630871688 c:\users\editto mirokal\desktop\editto mkal\tpeditmutsokalamire\include\typecom.h
+
+1630872000 source:c:\users\editto mirokal\desktop\editto mkal\tpeditmutsokalamire\typecom.cpp
+	<iostream>
+
+1630872000 c:\users\editto mirokal\desktop\editto mkal\tpeditmutsokalamire\typecom.cpp
+	<iostream>
+
